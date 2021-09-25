@@ -1,6 +1,6 @@
 # Cave generator #
 ### Unity Tool to create caves procedurally using the cellular automaton model ###
-
+---
 ### Using ###
 
  1 - After download and import package into Unity, go to Window > Cave Generator
