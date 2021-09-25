@@ -7,7 +7,7 @@
  
  2 - Click on the Generate button
  
- ![](https://franciscofontes.github.io/images/cave-generator/cave-generator_01.png) 
+ ![](https://franciscofontes.github.io/images/cave-generator/cave-generator_02.png) 
  
  
  To Add new elements Right click in Assets panel go to Create > Cave Generator > Cave element
